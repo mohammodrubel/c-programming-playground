@@ -1,6 +1,9 @@
 #include <stdio.h>
     int main(){
-        for(int i=1;i>=i;i++){
-            printf("%d \n",i);
+        int i=0;
+        int j=0;
+        for(int j=5;j<=10;j++){
+            i++;
         }
+        printf("%d \n",j);
     }
